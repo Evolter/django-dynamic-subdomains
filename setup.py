@@ -18,4 +18,5 @@ setup(
             'templates/*/*.html',
         ],
     },
+    requires=['django'],
 )
